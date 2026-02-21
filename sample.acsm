@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adept:fulfillmentToken xmlns:adept="http://ns.adobe.com/adept">
+  <adept:operatorURL>https://example.com/fulfill?id=demo</adept:operatorURL>
+  <adept:downloadType>application/epub+zip</adept:downloadType>
+  <adept:resourceItemInfo>demo</adept:resourceItemInfo>
+</adept:fulfillmentToken>
